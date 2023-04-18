@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Taller_0202</string>
+    <string name="boton_de_camara">Boton de camara</string>
+    <string name="boton_de_contactos">Boton de contactos</string>
+    <string name="boton_de_mapa">Boton de mapa</string>
+    <string name="imagen_de_celular">Imagen de celular</string>
+    <string name="tomar_foto">Tomar foto</string>
+    <string name="seleccionar_imagen">Seleccionar imagen</string>
+    <string name="scrollviewdescription">ScrollViewDescription</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="hintAddress">Pon tu direc</string>
+</resources>
